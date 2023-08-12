@@ -1,6 +1,6 @@
 # Academic_Project
-Fault Detection of Rolling Element Bearing Using machine Learning
-Sure, here are the bullet points you can use for your GitHub profile README:
+
+**Fault Detection of Rolling Element Bearing Using machine Learning**
 
 - **Enhancing Fault Diagnostics in Rotating Machinery using Machine Learning**
   - Conducted two comprehensive case studies to improve fault diagnostics in rotating machinery through the application of machine learning techniques.
