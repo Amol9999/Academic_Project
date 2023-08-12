@@ -23,6 +23,6 @@
   - Provided recommendations for data collection protocols, considering sample size and frequency, to enhance the accuracy and reliability of fault diagnosis in rotating machinery.
 
 - **Collaborators**
-  - [Amol Mathur]: Lead Researcher and Contributor
-  - [Dr. Prashant Singh Rana]: Data Analysis and Model Evaluation
-  - [Dr. Jaskaran Singh]: Project Supervision and Guidance
+  - Amol Mathur: Lead Researcher and Contributor
+  - Dr. Prashant Singh Rana: Data Analysis and Model Evaluation
+  - Dr. Jaskaran Singh: Project Supervision and Guidance
